@@ -1,0 +1,7 @@
+node_modules
+.git
+.github
+temp_audit
+*.mp4
+*.zip
+dist
